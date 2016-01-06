@@ -1,6 +1,7 @@
 /**
  * Magellan module.
  * @module foundation.magellan
+ * @requires foundation.util.triggers
  */
 !function(Foundation, $) {
   'use strict';
